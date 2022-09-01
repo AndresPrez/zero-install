@@ -9,7 +9,7 @@
 
   <homepage>http://0install.net/0release.xml</homepage>
 
-  <feed-for interface='http://0install.net/tests/HelloWorld.xml'/>
+  <feed-for interface='https://raw.githubusercontent.com/AndresPrez/zero-install/master/HelloWorld.xml'/>
 
   <!--
     Note: The main attribute here is to support 0launch < 0.53.
